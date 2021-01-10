@@ -30,7 +30,7 @@ Según Spotify escucho mucho [estas canciones](https://open.spotify.com/playlist
 
 ## Rostro y vergüenza 😳
 * [Podcast de radio LT8 de Rosario por Marcelo Tapia - 2020](https://open.spotify.com/episode/0rDgkMyjXWK66uyq2KexBD?si=s9e0yc8zSnm0eqGfoQ1tlg) (hablando sobre Arbusta y el [libro](https://www.lapotenciadeltalento.com/))
-* [Episodio #9 del Podcast "Despegando tu negocio" - 2020](hhttps://es-la.facebook.com/arbustait/posts/-hoy-a-las-22-hs-arg-21hs-bol-diego-bollini-coordinador-de-plataformas-en-arbust/3123291124380872/) (fue en jun-2020, estaba despegando la pandemia también😷)
+* [Episodio #9 del Podcast "Despegando tu negocio" - 2020](https://es-la.facebook.com/arbustait/posts/-hoy-a-las-22-hs-arg-21hs-bol-diego-bollini-coordinador-de-plataformas-en-arbust/3123291124380872/) (fue en jun-2020, estaba despegando la pandemia también😷)
 * [Hablando sobre Arbusta en un mapeo de SantaLab - 2016](https://www.youtube.com/watch?v=3Qd2wCu-EE4) (con el tiempo aprendí que no son barrios vulnerables sino vulnerados, entre otras cosas)
 
   
