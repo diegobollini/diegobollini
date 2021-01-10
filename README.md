@@ -11,7 +11,7 @@
 Según Spotify escucho mucho [estas canciones](https://open.spotify.com/playlist/37i9dQZF1Epst5FxKIugJv?si=-5JfqTx1TSugv8gRuTFY7Q).
 
 ## Tecnologías y herramientas (que uso, aprendo, pregunto)
-- y de paso juego con estos íconos (?)
+- y de paso juego con estos íconos (?)  
 ![GSuite](https://img.shields.io/badge/-GSuite-ea4335?style=plastic&logo=google&logoColor=white)
 ![Slack](https://img.shields.io/badge/-Slack-e01563?style=plastic&logo=slack&logoColor=white)
 ![Odoo](https://img.shields.io/badge/-Odoo-875A7B?style=plastic&logo=Odoo&logoColor=white)
