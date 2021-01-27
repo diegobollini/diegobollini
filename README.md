@@ -3,12 +3,16 @@
 # Me dicen Bolli 👋
 ### Y me parezco a este emoji 🤓
 
-🧑‍💻 Information Technology Generalist según Wikipedia. 👨 Formal e interesadamente en IT desde 2016 (el famoso "entrar a sistemas post-30").    
-🙂 Aprendo haciendo todos los días, buscando y preguntando a los que saben lo que yo no se. ⏰ Me conecto puntual a las reuniones (pero qué lindo mandar mails ¿no?).  
+🧑‍💻 Information Technology Generalist según Wikipedia.  
+👨 Formal e interesadamente en IT desde 2016 (el famoso "entrar a sistemas post-30").  
+🙂 Aprendo haciendo todos los días, buscando y preguntando a los que saben lo que yo no se.  
+⏰ Me conecto puntual a las reuniones (pero qué lindo mandar mails ¿no?).  
 🤟 Disfruto trabajando en equipos diversos e interdisciplinarios.  
-👨🏼💼 Experiencia en procesos administrativos y de gestión. 🔥 Tuve que trabajar bajo presión y mucha responsabilidad.  
-🧠 Creo que la tecnología no debe ser instrumental y su uso debe ser seguro, crítico y creativo. Adoro a mi gata 🐱.  
-Según Spotify escucho mucho [estas canciones](https://open.spotify.com/playlist/37i9dQZF1Epst5FxKIugJv?si=-5JfqTx1TSugv8gRuTFY7Q).
+👨🏼💼 Experiencia en procesos administrativos y de gestión.  
+🔥 Tuve que trabajar bajo presión y mucha responsabilidad.  
+🧠 Creo que la tecnología no debe ser instrumental y su uso debe ser seguro, crítico y creativo.  
+🐱 Adoro a mi gata.  
+🎧 Según Spotify escucho mucho [estas canciones](https://open.spotify.com/playlist/37i9dQZF1Epst5FxKIugJv?si=-5JfqTx1TSugv8gRuTFY7Q).  
 
 ## Tecnologías y herramientas (que uso, aprendo, pregunto)
 - y de paso juego con estos íconos (?)  
