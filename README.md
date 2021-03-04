@@ -14,8 +14,8 @@
 🐱 Adoro a mi gata.  
 🎧 Según Spotify escucho mucho [estas canciones](https://open.spotify.com/playlist/37i9dQZF1Epst5FxKIugJv?si=-5JfqTx1TSugv8gRuTFY7Q).  
 
-## Tecnologías y herramientas (que uso, aprendo, pregunto)
-- y de paso juego con estos íconos (?)  
+## Tecnologías y herramientas (que uso con relativo conocimiento)
+
 ![GSuite](https://img.shields.io/badge/-GSuite-ea4335?style=plastic&logo=google&logoColor=white)
 ![Slack](https://img.shields.io/badge/-Slack-e01563?style=plastic&logo=slack&logoColor=white)
 ![Odoo](https://img.shields.io/badge/-Odoo-875A7B?style=plastic&logo=Odoo&logoColor=white)
@@ -32,10 +32,10 @@
 ![Python](https://img.shields.io/badge/-Python-4584b6?style=plastic&logo=python&logoColor=white)
 ![Windows](https://img.shields.io/badge/-Windows-0078d7?style=plastic&logo=windows)
 
-## Rostro y vergüenza 😳
+## Famoso (?)
 * [Podcast de radio LT8 de Rosario por Marcelo Tapia - 2020](https://open.spotify.com/episode/0rDgkMyjXWK66uyq2KexBD?si=s9e0yc8zSnm0eqGfoQ1tlg) (hablando sobre Arbusta y el [libro](https://www.lapotenciadeltalento.com/))
 * [Episodio #9 del Podcast "Despegando tu negocio" - 2020](https://es-la.facebook.com/arbustait/posts/-hoy-a-las-22-hs-arg-21hs-bol-diego-bollini-coordinador-de-plataformas-en-arbust/3123291124380872/) (fue en jun-2020, estaba despegando la pandemia también😷)
-* [Hablando sobre Arbusta en un mapeo de SantaLab - 2016](https://www.youtube.com/watch?v=3Qd2wCu-EE4) (con el tiempo aprendí que no son barrios vulnerables sino vulnerados, entre otras cosas)
+* [Hablando sobre Arbusta en un mapeo de SantaLab - 2016](https://www.youtube.com/watch?v=3Qd2wCu-EE4)
 
   
 ## Redes, perfiles y proyectos en:
