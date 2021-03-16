@@ -1,4 +1,4 @@
-<img width=95% src='https://media-exp1.licdn.com/dms/image/C4E16AQExwnchTBhS0w/profile-displaybackgroundimage-shrink_350_1400/0/1584904584569?e=1615420800&v=beta&t=RE_tAEFS8Ny8CmK6VIjJn3Zii8LILh5a5685fcSOllk'/>
+<img width=95% src='https://user-images.githubusercontent.com/52762280/111236375-760aa400-85d1-11eb-8841-a40a6ae7d9ea.jpeg'/>
 
 # Me dicen Bolli 👋
 ### Y me parezco a este emoji 🤓
