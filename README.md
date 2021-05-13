@@ -33,6 +33,7 @@
 ![Windows](https://img.shields.io/badge/-Windows-0078d7?style=plastic&logo=windows)
 
 ## Famoso (?)
+* [Hablemos Sobre Ti ! con Alan Buscaglia de Gentleman Programming](https://youtu.be/JdfOgh8hIh0)
 * [Podcast de radio LT8 de Rosario por Marcelo Tapia - 2020](https://open.spotify.com/episode/0rDgkMyjXWK66uyq2KexBD?si=s9e0yc8zSnm0eqGfoQ1tlg) (hablando sobre Arbusta y el [libro](https://www.lapotenciadeltalento.com/))
 * [Episodio #9 del Podcast "Despegando tu negocio" - 2020](https://es-la.facebook.com/arbustait/posts/-hoy-a-las-22-hs-arg-21hs-bol-diego-bollini-coordinador-de-plataformas-en-arbust/3123291124380872/) (fue en jun-2020, estaba despegando la pandemia también😷)
 * [Hablando sobre Arbusta en un mapeo de SantaLab - 2016](https://www.youtube.com/watch?v=3Qd2wCu-EE4)
