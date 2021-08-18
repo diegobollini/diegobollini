@@ -39,4 +39,6 @@ Generalista, trabajando formalmente en IT desde 2016. Aprendo haciendo cada día
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0077B5?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diegobollini/)](https://www.linkedin.com/in/diegobollini/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1DA1F2?style=plastic&logo=Twitter&logoColor=white&link=https://twitter.com/diegobollini)](https://twitter.com/diegobollini)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diegobollini)](https://github.com/anuraghazra/github-readme-stats)
+
 * Readme forkeado de [ArianeJDB](https://github.com/arianeJDB)
